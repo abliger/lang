@@ -2,12 +2,15 @@
 本人随着项目的编写经常使用的工具类
 以下是模块的分类
 
-[TOC]
+## 目录
+- [lang-str](#lang-str)
+    - [ToString](#ToString)
+    - [ArrayChange](#arraychange)
 
-## lang-str
+### lang-str
 本模块实现了字符串的处理
-### ToString
+#### ToString
 实现了数组了遍历输出
-### ArrayChange
+#### ArrayChange
 实现了数组间的转换
 
